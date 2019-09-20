@@ -1,4 +1,4 @@
-Simple React App made with the single purpouse of providing a front end side to a netcore backend for the first task in the semester in a software engineering's course.
+# Simple React App made with the single purpouse of providing a front end side to a netcore backend for the first task in the semester in a software engineering's course.
 
 ### Main features that the app offers
 
